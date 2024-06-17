@@ -52,6 +52,13 @@ body{
     background-color: var(--background);
 }
 
+header {
+    background-color: var(--primary_color);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
 .navbar {
     background-color: var(--background);
 }
@@ -60,13 +67,6 @@ body{
     width: 75px;
     height: auto;
     min-height: var(--min_logo_height);
-}
-
-header {
-    background-color: var(--primary_color);
-    color: #fff;
-    text-align: center;
-    padding: 20px;
 }
 
 section {
@@ -81,6 +81,14 @@ nav ul li {
 
 nav ul li a:hover {
     background-color: var(--primary_color);
+}
+
+.accordion {
+    --bs-accordion-active-bg: var(--secondary_color_3);
+    --bs-accordion-active-color: #fff;
+    --bs-accordion-btn-bg: var(--primary_color);
+    --bs-accordion-bg: var(--secondary_color_1);
+    --bs-accordion-color: #fff;
 }
 
 /* Estilos para las imágenes del carousel */
@@ -100,13 +108,18 @@ nav ul li a:hover {
     /* border-radius: 10px */
 }
 
+/* Se mantiene del Trabajo Integrador 1 */
 #home-paragraphs{
     background-image: linear-gradient(90deg, rgba(5,197,241,0.80) 0%, rgba(115,204,48,0.80) 100%);
 }
 
 #home-paragraphs p{ 
-    color: var(--text_color_1);    
+    color: var(--text_color_2);    
 }
+
+#home-paragraphs p:nth-child(1) {
+    color: #fff; 
+} 
 
 footer {
     background-color: var(--primary_color); /* Color de fondo del footer */
