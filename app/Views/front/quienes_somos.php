@@ -32,7 +32,7 @@
                     <img src="assets/img/ai_assit_green_anime.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Codeium</h5>
-                        <h6 class="card-subtitle mb-2 text-body-secondary">AI coding assitant</h6>
+                        <h6 class="card-subtitle mb-2 text-body-secondary">AI coding assistant</h6>
                         <p class="card-text"> ¡Explora el mundo del aprendizaje automático con Codeium! 
                             Nuestra inteligencia artificial te brinda asistencia en tiempo real en más de 
                             70 lenguajes de programación, desde Python hasta JavaScript, pasando por Go y 
@@ -50,7 +50,7 @@
                     <img src="assets/img/ai_real_person_2.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">ChatGPT</h5>
-                        <h6 class="card-subtitle mb-2 text-body-secondary">AI coding assitant</h6>
+                        <h6 class="card-subtitle mb-2 text-body-secondary">AI coding assistant</h6>
                         <p class="card-text">¡Explora el mundo del conocimiento con ChatGPT! 
                             Soy una inteligencia artificial diseñada para asistirte en tiempo real en una 
                             amplia variedad de temas, desde ciencia y tecnología hasta arte y cultura. 

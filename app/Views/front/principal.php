@@ -11,10 +11,10 @@
             <img src="assets/img/home.jpg" class="d-block w-100" alt="Hombres Trabajando">
             </div>
             <div class="carousel-item">
-            <img src="assets/img/coin_house.jpg" class="d-block w-100" alt="Casa de Monedas">
+            <img src="assets/img/viviendas.jpg" class="d-block w-100" alt="Viviendas INVICO">
             </div>
             <div class="carousel-item">
-            <img src="assets/img/viviendas_web_invico.png" class="d-block w-100" alt="Viviendas INVICO">
+            <img src="assets/img/viviendas_remaster.jpeg" class="d-block w-100" alt="Viviendas INVICO">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
