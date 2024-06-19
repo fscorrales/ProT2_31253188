@@ -3,7 +3,7 @@
             <div class="card-header text-center">
                 <h2>Registrar Usuario</h2>
             </div>
-            <!-- Inicio de formulario de login -->
+            <!-- Inicio de formulario de registro -->
             <div class="card-body" media="(max-width: 768px)">   
                 <form>
                     <div class="mb-3">

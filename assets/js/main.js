@@ -4,7 +4,10 @@ let dataTable;
 let dataTableIsInitialized = false;
 
 const dataTableOptions = {
+    responsive: true,
     columnDefs: [
+        // { responsivePriority: 1, targets: 1 },
+        // { responsivePriority: 2, targets: -1 },
         { className: "centered_cols", targets: [0, 1, 2, 3, 4, 5] },
         { orderable: false, targets: [0, 5] },
         // { searchable: false, targets: [1] }
@@ -41,6 +44,7 @@ const initDataTable=async()=>{
     
     await listAgentes();
 
+    // Con la incoporación de más registros habrá que utilizar AJAX
     dataTable = $('#table_agentes').DataTable(dataTableOptions);
 
     dataTableIsInitialized = true;
@@ -48,6 +52,7 @@ const initDataTable=async()=>{
 
 const listAgentes=async()=>{
     try {
+        // Registros generados en https://www.mockaroo.com/
         const response = await fetch('assets/data/agentes.json');
         const agentes = await response.json();
         

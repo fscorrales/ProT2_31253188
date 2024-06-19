@@ -1,4 +1,5 @@
     <section class="container">
+        <!-- Inicio de acordion -->
         <div class="accordion" id="accordionPanelsStayOpenExample">
             <div class="accordion-item">
                 <h2 class="accordion-header">
@@ -42,4 +43,5 @@
                 </div>
             </div>
         </div>
+        <!-- Fin de acordion -->
     </section>

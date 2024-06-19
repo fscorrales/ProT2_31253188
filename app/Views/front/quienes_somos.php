@@ -11,6 +11,7 @@
                             soluciones informáticas tendientes a la mejora de la eficiencia</p>
                     </div>
                     <div class="card-footer bg-transparent border-light">
+                        <!-- Inicio  -->
                         <div class="dropdown">
                             <button class="btn btn-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Más Datos

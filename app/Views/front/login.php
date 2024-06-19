@@ -21,5 +21,6 @@
                     <br><span>¿Aun no se registró? <a href="registro">Registrarse aquí</a></span>
                 </form>
             </div>
+            <!-- Fin de formulario de login -->
         </div>
     </div>

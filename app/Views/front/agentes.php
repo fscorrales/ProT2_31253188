@@ -17,19 +17,19 @@
             <form>
                 <div class="mb-3">
                     <label class="form-label">CUIT</label>
-                    <input type="text" class="form-control" id="cuit_agente">
+                    <input type="text" class="form-control" id="cuit_agente" placeholder="00-00000000-0">
                 </div>
                 <div class="mb-3">
                     <label class="form-label">Nombre Completo</label>
-                    <input type="text" class="form-control" id="nombre_completo_agente">
+                    <input type="text" class="form-control" id="nombre_completo_agente" placeholder="Ingresar nombre completo">
                 </div>
                 <div class="mb-3">
                     <label class="form-label">Estructura</label>
-                    <input type="text" class="form-control" id="estructura_agente">
+                    <input type="text" class="form-control" id="estructura_agente" placeholder="00-00-00-00">
                 </div>
                 <div class="mb-3">
                     <label class="form-label">Partida</label>
-                    <input type="text" class="form-control" id="partida_agente">
+                    <input type="number" class="form-control" id="partida_agente" placeholder="000">
                 </div>
                 <button type="submit" class="btn btn-success">Agregar</button>
                 <button type="cancel" class="btn btn-danger">Cancelar</button>
