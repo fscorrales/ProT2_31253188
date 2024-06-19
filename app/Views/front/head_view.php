@@ -4,13 +4,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Proyecto Integrador 2</title>
-    <!-- estilo interno para el primer párrafo con el uso de psudo-clases -->
-    <style> p:nth-child(1) { color: green; } </style>
+    <!-- Bootstrap -->
     <link href="assets/css/bootstrap/bootstrap.min.css" rel="stylesheet">
+    <!-- Datatables -->
+    <link href="https://cdn.datatables.net/2.0.8/css/dataTables.bootstrap5.css" rel="stylesheet">
+    <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="assets/css/styles.css" rel="stylesheet">
   </head>
   <body>
     <header>

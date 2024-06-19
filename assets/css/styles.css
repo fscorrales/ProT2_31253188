@@ -48,8 +48,13 @@
     font-family: var(--font_family) !important;
 }
 
-body{
+/* body{
     background-color: var(--background);
+} */
+
+table img {
+    filter: brightness(0) saturate(100%) invert(100%);
+    color: white;
 }
 
 header {
@@ -106,6 +111,11 @@ nav ul li a:hover {
     height: auto;
     /* border: 3px solid #69bd45; */
     /* border-radius: 10px */
+}
+
+.centered_cols {
+    text-align: center !important;
+    vertical-align: middle !important;
 }
 
 /* Se mantiene del Trabajo Integrador 1 */
