@@ -79,9 +79,10 @@ nav ul li {
     margin-right: 20px;
 }
 
-nav ul li a:hover {
-    background-color: var(--primary_color);
+nav li a:hover {
+    background-color: var(--primary_color)!important;
 }
+
 
 .accordion {
     --bs-accordion-active-bg: var(--secondary_color_3);
