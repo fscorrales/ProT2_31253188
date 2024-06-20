@@ -8,10 +8,10 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-            <img src="assets/img/home.jpg" class="d-block w-100" alt="Hombres Trabajando">
+            <img src="assets/img/viviendas2.jpg" class="d-block w-100" alt="Viviendas INVICO">
             </div>
             <div class="carousel-item">
-            <img src="assets/img/viviendas.jpg" class="d-block w-100" alt="Viviendas INVICO">
+            <img src="assets/img/viviendas3.jpg" class="d-block w-100" alt="Viviendas INVICO">
             </div>
             <div class="carousel-item">
             <img src="assets/img/viviendas_remaster.jpeg" class="d-block w-100" alt="Viviendas INVICO">
